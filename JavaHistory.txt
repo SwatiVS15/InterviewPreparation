@@ -1,2 +1,19 @@
 Section: Java History
 
+Questions & Answers:
+
+1) Why JAVA is developed?
+2) When should we use C language & when should we use Java language?
+3) What are the important features of Java?
+4) What is OAK?
+5) What is the abbreviation of Java?
+6) What is a platform, Platform Dependency and Platform Independency?
+7) What is the meaning of 
+	a. source code, compiled code, executable code
+	b. compilation, execution
+	c. compiler & interpreter
+8) Why C, C++ programming languages are platform dependency?
+9) How Java achieved Platform Independency?
+10) Why JVM is platform dependent?
+11) What is the Java's slogan?
+12) Explain why Java is called language, platform, & technology?
