@@ -19,18 +19,28 @@ A: There is no abbreviation of Java.
 
 Q6) What is a platform, Platform Dependency and Platform Independency?
 A: Platform: An environment which contains hardware or software components and which helps in running applications. Example: Operating System (OS) --> Windows
-   Platform Dependency: 
-
+   Platform Dependency: When applications are unable to execute on other OS then the one in which it was compiled.
+   Platform Independency: When applications can be executed from any OS no matter in which OS it was compiled.
 
 Q7) What is the meaning of 
 	a. source code, compiled code, executable code
 	b. compilation, execution
 	c. compiler & interpreter
+A: a. source code: Programmer written code.
+   b. compiled code: 
+	
 Q8) Why C, C++ programming languages are platform dependency?
+A: C, C++ programming languages are platform dependent because their source code is converted into machine language during compilation phase itself.
+
 Q9) How Java achieved Platform Independency?
+A: Java achieved platform independency by moving generation of machine language from compilation phase to executation phase.
+
 Q10) Why JVM is platform dependent?
 
 Q11) What is the Java's slogan?
 A: Write Once Run Anywhere (WORA)
 
 Q12) Explain why Java is called language, platform, & technology?
+A: Java is a language as we can develop internet application using Java.
+   Java also contains JRE (Java Runtime Environment) which helps in executing java applications on top of exisiting OS.
+   Java contains API and usable applications that helps in developing other useful applications.
