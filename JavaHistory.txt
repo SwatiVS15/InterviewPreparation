@@ -26,8 +26,9 @@ Q7) What is the meaning of
 	a. source code, compiled code, executable code
 	b. compilation, execution
 	c. compiler & interpreter
-A: a. source code: Programmer written code.
-   b. compiled code: 
+A: a. source code: Programmer written code, compiled code: Code we get after compiling source code, executable code: Code that can be executed (.exe) file
+   b. compilation: Process of converting source code into compiled code, execution: Process of executing a compiled code
+   c. compiler: a translation program that converts source code to compiled code at a time, interpreter: a translation program that converts sourcecode into machine language line by line. (But in Java, interpreter converts bytecode produced by compiler into machine understandable code.) 
 	
 Q8) Why C, C++ programming languages are platform dependency?
 A: C, C++ programming languages are platform dependent because their source code is converted into machine language during compilation phase itself.
